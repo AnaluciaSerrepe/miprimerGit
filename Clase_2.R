@@ -22,6 +22,7 @@ b=matrix(y,nrow=3,ncol=10)
 b
 
 z=seq(from=1,to=36,by=2)
+z=seq(3,10,1)
 z
 z
 

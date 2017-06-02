@@ -23,5 +23,6 @@ b
 
 z=seq(from=1,to=36,by=2)
 z
+z
 
 
